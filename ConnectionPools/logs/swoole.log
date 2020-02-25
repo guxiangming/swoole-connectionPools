@@ -1,0 +1,53 @@
+[2019-05-06 17:19:38 *48759.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: Swoole\ExitException: swoole exit. in /czm/vuetest/app/ConnectionPools/MysqlProxy.php:282
+Stack trace:
+#0 /czm/vuetest/app/ConnectionPools/MysqlProxy.php(85): App\ConnectionPools\MysqlProxy->recv()
+#1 /czm/vuetest/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlProxy->App\ConnectionPools\{closure}()
+#2 {main} in /czm/vuetest/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /czm/vuetest/app/ConnectionPools/BasePools.php on line 36.
+[2019-05-06 17:19:38 $48646.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-06 17:19:38 *48957.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\Exception\ConnectionPoolsException: Must be connected before sending data! in /czm/vuetest/app/ConnectionPools/ConnectionServer.php:58
+Stack trace:
+#0 /czm/vuetest/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\ConnectionServer->App\ConnectionPools\{closure}()
+#1 {main} in /czm/vuetest/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /czm/vuetest/app/ConnectionPools/BasePools.php on line 36.
+[2019-05-06 17:19:38 $48646.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-06 17:19:38 *48995.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: Swoole\ExitException: swoole exit. in /czm/vuetest/app/ConnectionPools/MysqlProxy.php:282
+Stack trace:
+#0 /czm/vuetest/app/ConnectionPools/MysqlProxy.php(85): App\ConnectionPools\MysqlProxy->recv()
+#1 /czm/vuetest/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlProxy->App\ConnectionPools\{closure}()
+#2 {main} in /czm/vuetest/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /czm/vuetest/app/ConnectionPools/BasePools.php on line 36.
+[2019-05-06 17:19:38 *48755.0]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 11 byte failed, because connection[fd=4] is closed.
+[2019-05-06 17:19:38 $48646.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-06 17:19:38 *49112.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\Exception\ConnectionPoolsException: Must be connected before sending data! in /czm/vuetest/app/ConnectionPools/ConnectionServer.php:58
+Stack trace:
+#0 /czm/vuetest/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\ConnectionServer->App\ConnectionPools\{closure}()
+#1 {main} in /czm/vuetest/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /czm/vuetest/app/ConnectionPools/BasePools.php on line 36.
+[2019-05-06 17:19:38 $48646.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-06 17:19:38 *49151.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: Swoole\ExitException: swoole exit. in /czm/vuetest/app/ConnectionPools/MysqlProxy.php:282
+Stack trace:
+#0 /czm/vuetest/app/ConnectionPools/MysqlProxy.php(85): App\ConnectionPools\MysqlProxy->recv()
+#1 /czm/vuetest/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlProxy->App\ConnectionPools\{closure}()
+#2 {main} in /czm/vuetest/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /czm/vuetest/app/ConnectionPools/BasePools.php on line 36.
+[2019-05-06 17:19:38 *48755.0]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 11 byte failed, because connection[fd=6] is closed.
+[2019-05-06 17:19:38 $48646.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0
+[2019-05-06 17:19:38 *49282.3]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\Exception\ConnectionPoolsException: Must be connected before sending data! in /czm/vuetest/app/ConnectionPools/ConnectionServer.php:58
+Stack trace:
+#0 /czm/vuetest/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\ConnectionServer->App\ConnectionPools\{closure}()
+#1 {main} in /czm/vuetest/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /czm/vuetest/app/ConnectionPools/BasePools.php on line 36.
+[2019-05-06 17:19:38 $48646.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=255, signal=0

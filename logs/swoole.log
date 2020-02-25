@@ -1,0 +1,582 @@
+Worker started!
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 26, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 59, 'readCPhlyun_oms')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 49, 'writeCPhlyun_om...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 8, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 7, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 21, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 9, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 34, 'readCPhlyun_sso')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 4, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 45, 'writeCPhlyun_om...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 56, 'readCPhlyun_oms')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 18, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 52, 'readCPhlyun_oms')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 28, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 11, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 30, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 23, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 14, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 48, 'writeCPhlyun_om...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 54, 'readCPhlyun_oms')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 61, 'read')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 19, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 12, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 47, 'writeCPhlyun_om...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 38, 'readCPhlyun_sso')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 32, 'readCPhlyun_sso')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 42, 'writeCPhlyun_om...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 3, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 31, 'readCPhlyun_sso')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 37, 'readCPhlyun_sso')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#8[pid=19155] abnormal exit, status=255, signal=0
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 57, 'readCPhlyun_oms')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#0[pid=19121] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#1[pid=19127] abnormal exit, status=255, signal=0
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 29, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#2[pid=19129] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#3[pid=19134] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#4[pid=19135] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#5[pid=19136] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#6[pid=19145] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#7[pid=19150] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#9[pid=19156] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#10[pid=19157] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#11[pid=19158] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#12[pid=19179] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#13[pid=19180] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#14[pid=19184] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#15[pid=19190] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#16[pid=19191] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#17[pid=19192] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#18[pid=19223] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#19[pid=19230] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#20[pid=19243] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#21[pid=19244] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#22[pid=19252] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#23[pid=19254] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#24[pid=19259] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#25[pid=19260] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#26[pid=19261] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#27[pid=19262] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#28[pid=19263] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#29[pid=19268] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#30[pid=19269] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 $18733.0]	WARNING	swManager_check_exit_status: worker#31[pid=19274] abnormal exit, status=255, signal=0
+[2019-10-31 09:14:18 #18732.8]	NOTICE	Server is shutdown now.
+Worker started!
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 29, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 10, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 8, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 2, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 18, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 7, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 28, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 25, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 27, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 4, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 26, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 13, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 3, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 16, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 31, 'readCPhlyun_sso')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 24, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 12, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 6, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 32, 'readCPhlyun_sso')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#24[pid=18974] abnormal exit, status=255, signal=0
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 5, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 17, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#18[pid=18968] abnormal exit, status=255, signal=0
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 21, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#0[pid=18950] abnormal exit, status=255, signal=0
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 1, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#30[pid=18980] abnormal exit, status=255, signal=0
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 30, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 23, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#13[pid=18963] abnormal exit, status=255, signal=0
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 19, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 15, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 14, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 11, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 9, 'writeCPhlyun_ce...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 22, 'writeCPhlyun_ss...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+PHP Fatal error:  Uncaught App\ConnectionPools\Exception\ConnectionPoolsException: App\ConnectionPools\MysqlPool\MySQLException: App\ConnectionPools@MySQL server has gone away in /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php:208
+Stack trace:
+#0 /alidata/server/ConnectionPools/app/ConnectionPools/MysqlPool/MySQLPool.php(86): App\ConnectionPools\MysqlPool\MySQLPool::initConn(Object(Swoole\Server), 20, 'readCPhlyun_cen...')
+#1 /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php(31): App\ConnectionPools\MysqlPool\MySQLPool::App\ConnectionPools\MysqlPool\{closure}()
+#2 {main} in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php:36
+Stack trace:
+#0 {main}
+  thrown in /alidata/server/ConnectionPools/app/ConnectionPools/BasePools.php on line 36
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#6[pid=18956] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#5[pid=18955] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#4[pid=18954] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#7[pid=18957] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#3[pid=18953] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#1[pid=18951] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#2[pid=18952] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#8[pid=18958] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#9[pid=18959] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#10[pid=18960] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#11[pid=18961] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#12[pid=18962] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#14[pid=18964] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#15[pid=18965] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#16[pid=18966] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#17[pid=18967] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#19[pid=18969] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#20[pid=18970] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#21[pid=18971] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#22[pid=18972] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#23[pid=18973] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#25[pid=18975] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#26[pid=18976] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#27[pid=18977] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#28[pid=18978] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#29[pid=18979] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 $18860.0]	WARNING	swManager_check_exit_status: worker#31[pid=18981] abnormal exit, status=255, signal=0
+[2019-11-12 15:07:17 #18859.8]	NOTICE	Server is shutdown now.
+Worker started!
+[2020-01-07 03:18:25 #20179.8]	NOTICE	Server is shutdown now.
